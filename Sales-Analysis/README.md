@@ -41,6 +41,7 @@ The modelling stage focuses on: Examining table relationships in Power BI Model 
 ## Dashboard Design and Visualisations
 The report brings together financial KPIs, product comparisons, customer analysis, and monthly trends on a single dashboard page.
 <img width="1307" height="740" alt="Screenshot 2026-10-22 143607" src="https://github.com/user-attachments/assets/08e9bbf9-46b0-45b0-8a2c-366797c61bd0" />
+[Sales Dashboard](https://github.com/Ekemini024/PowerBi-Projects/blob/main/Sales-Analysis/Sales%20Analysis%20By%20Ekemini.pbix)
 
 ### 1. KPI Cards
 The KPI cards display:
