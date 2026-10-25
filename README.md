@@ -17,4 +17,4 @@ This repository contains data analysis and dashboard projects I've worked on usi
 
 ## Projects
 Each project will have its own folder with a README explaining the business problem, the analysis, and the insights from the dashboard.
-- [Sales Analysis Dashboard]()
+- [PowerBI Sales Analysis Dashboard](https://github.com/Ekemini024/PowerBi-Projects/tree/main/Sales-Analysis)
